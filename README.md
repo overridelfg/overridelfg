@@ -2,6 +2,7 @@
 
 > [!NOTE]\
 > Software Engineer, primarily a Fronend Developer
+> 
 ![LeetCode Stats](https://leetcode.card.workers.dev/kprychkovdidit?theme=dark&font=source_code_pro&extension=null)
 <!--
 **overridelfg/overridelfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
