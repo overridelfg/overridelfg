@@ -3,7 +3,7 @@
 > [!NOTE]\
 > Software Engineer, primarily a Fronend Developer
 > 
-![LeetCode Stats](https://leetcode.card.workers.dev/kprychkovdidit?theme=dark&font=source_code_pro&extension=null)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kprychkovdidit?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/kprychkovdidit?theme=unicorn&extension=activity)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overridelfg&langs_count=8&hide=css,html,cmake,makefile&layout=donut&theme=tokyonight)
 <!--
